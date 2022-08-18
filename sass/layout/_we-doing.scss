@@ -1,0 +1,78 @@
+.section-card {
+    padding-bottom: 94px;
+}
+
+.we-doing {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.overlay-doing {
+    position: relative;
+    display: block;
+}
+
+.we-doing-overlay {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 370px;
+    height: 70px;
+
+    font-size: 14px;
+    line-height: 1.14;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 107px;
+    padding-right: 107px;
+
+    color: #FFFFFF;
+    background: rgba(47, 48, 58, 0.8);
+
+}
+
+.we-doing-overlay-mob {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 370px;
+    height: 70px;
+
+    font-size: 14px;
+    line-height: 1.14;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 113px;
+    padding-right: 113px;
+
+    color: #FFFFFF;
+    background: rgba(47, 48, 58, 0.8);
+}
+
+.we-doing-overlay-diz {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 370px;
+    height: 70px;
+
+    font-size: 14px;
+    line-height: 1.14;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    padding-left: 95px;
+    padding-right: 95px;
+
+    color: #FFFFFF;
+    background: rgba(47, 48, 58, 0.8);
+}

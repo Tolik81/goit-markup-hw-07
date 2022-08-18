@@ -1,0 +1,50 @@
+ .our-clients {
+     font-weight: 700;
+     font-size: 36px;
+     line-height: 1.17;
+     text-align: center;
+     letter-spacing: 0.03em;
+     padding-top: 94px;
+     margin-bottom: 94px;
+
+     color: #212121;
+ }
+
+ .clients-link {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     box-sizing: border-box;
+     width: 170px;
+     height: 92px;
+     border: 1px solid #AFB1B8;
+     border-radius: 4px;
+     cursor: pointer;
+
+ }
+
+ .clients-link:hover,
+ .clients-link:focus {
+     border-color: #2196F3;
+ }
+
+ .clients-icon:hover,
+ .clients-icon:focus {
+     fill: #2196F3;
+ }
+
+ .clients-list-item :hover .clients-icon,
+ .clients-list-item :focus .clients-icon {
+     fill: #2196F3;
+ }
+
+ .clients-list {
+     display: flex;
+     justify-content: center;
+     gap: 30px;
+     margin-bottom: 94px;
+ }
+
+ .clients-icon {
+     fill: #AFB1B8;
+ }
